@@ -90,27 +90,27 @@
 > > > | **DFL 1 (2003)** | Código del Trabajo | 16-ENE-2003 | Ley 21.797 (07-FEB-2026) | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=207436) |
 > > > | **Ley 16.744** | Seguro AT y Enfermedades Profesionales | 01-FEB-1968 | Ley 21.400 (10-DIC-2021) | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=28650) |
 > > > | **DL 3.500** | Sistema de Pensiones AFP | 13-NOV-1980 | Ley 21.735 (2024) | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=7147) |
-> > > | **Ley 19.728** | Seguro de Cesantía | 14-MAY-2001 | Múltiples | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=188454) |
-> > > | **Ley 17.322** | Cobranza Judicial de Cotizaciones | 19-AGO-1970 | Ley 20.023 (2005) | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=29178) |
-> > > | **Ley 21.561** | Reducción Jornada 40 Horas | 29-ABR-2023 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=1186383) |
-> > > | **Ley 21.643** | Ley Karin (Acoso Laboral/Sexual) | 15-ENE-2024 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=1196748) |
-> > > | **Ley 21.220** | Trabajo a Distancia y Teletrabajo | 26-MAR-2020 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=1143741) |
-> > > | **Ley 21.735** | Sistema Mixto de Pensiones | 2024 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=1213312) |
-> > > | **DFL 44** | Subsidios por Incapacidad Laboral (LME) | 01-JUL-1978 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=28627) |
+> > > | **Ley 19.728** | Seguro de Cesantía | 14-MAY-2001 | Múltiples | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idLey=19728) |
+> > > | **Ley 17.322** | Cobranza Judicial de Cotizaciones | 19-AGO-1970 | Ley 20.023 (2005) | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idLey=17322) |
+> > > | **Ley 21.561** | Reducción Jornada 40 Horas | 29-ABR-2023 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idLey=21561) |
+> > > | **Ley 21.643** | Ley Karin (Acoso Laboral/Sexual) | 15-ENE-2024 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idLey=21643) |
+> > > | **Ley 21.220** | Trabajo a Distancia y Teletrabajo | 26-MAR-2020 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idLey=21220) |
+> > > | **Ley 21.735** | Sistema Mixto de Pensiones | 2024 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idLey=21735) |
+> > > | **DFL 44** | Subsidios por Incapacidad Laboral (LME) | 01-JUL-1978 | Vigente | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=4252) |
 > > >
 > > > ### 2. Decretos Supremos Clave
 > > >
 > > > | Norma | Denominación | Publicación | Enlace BCN |
 > > > |-------|-------------|------------|-----------|
-> > > | **DS 44 (2024)** | Gestión Preventiva de Riesgos Laborales | 27-JUL-2024 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=1208027) |
-> > > | **DS 101 (1968)** | Reglamento Ley 16.744 | 07-JUN-1968 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=29183) |
-> > > | **DS 109 (1968)** | Calificación y Evaluación AT y EEPP | 07-JUN-1968 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=29191) |
+> > > | **DS 44 (2024)** | Gestión Preventiva de Riesgos Laborales | 27-JUL-2024 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=1205298) |
+> > > | **DS 101 (1968)** | Reglamento Ley 16.744 | 07-JUN-1968 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=9231) |
+> > > | **DS 109 (1968)** | Calificación y Evaluación AT y EEPP | 07-JUN-1968 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=9391) |
 > > > | **DS 594 (2000)** | Condiciones Sanitarias en Lugares de Trabajo | 29-ABR-2000 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=167766) |
-> > > | **DS 67 (2000)** | Cotización Adicional Diferenciada | 07-MAR-2000 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=164157) |
-> > > | **DS 67 (2008)** | Trabajadores Independientes Ley 16.744 | 30-SEP-2008 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=274753) |
-> > > | **DS 76 (2007)** | Seguridad en Obras/Faenas (Art. 66 bis) | 18-ENE-2007 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=259226) |
-> > > | **DS 285 (1969)** | Estatuto Orgánico Mutualidades | 26-FEB-1969 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=29330) |
-> > > | **DS 313 (1973)** | Seguro Escolar | 12-MAY-1973 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=29498) |
+> > > | **DS 67 (2000)** | Cotización Adicional Diferenciada | 07-MAR-2000 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=159800) |
+> > > | **DS 67 (2008)** | Trabajadores Independientes Ley 16.744 | 30-SEP-2008 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=278551) |
+> > > | **DS 76 (2007)** | Seguridad en Obras/Faenas (Art. 66 bis) | 18-ENE-2007 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=257601) |
+> > > | **DS 285 (1969)** | Estatuto Orgánico Mutualidades | 26-FEB-1969 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=11929) |
+> > > | **DS 313 (1973)** | Seguro Escolar | 12-MAY-1973 | [🔗 BCN](https://www.bcn.cl/leychile/navegar?idNorma=74448) |
 > > >
 > > > ### 3. Circulares SUSESO Recientes (2023-2026)
 > > >
